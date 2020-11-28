@@ -1,0 +1,11 @@
+:: StoryTitle
+A Cat's Day
+
+:: StoryData
+{
+	"format": "SugarCube",
+	"format-version": "2.31.1"
+}
+
+:: Start
+Hello World from Twine on Spindle!

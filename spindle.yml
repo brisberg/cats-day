@@ -1,0 +1,9 @@
+id: "cats-day"
+version: "0.1.0"
+title: "A Cat's Day"
+format: "sugarcube-2.31.1"
+description: "A quirky retelling of a house cat's day."
+header:
+  - "header/*"
+deps:
+  - "src/*"

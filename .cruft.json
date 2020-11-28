@@ -1,0 +1,16 @@
+{
+    "template": "https://github.com/brisberg/cruft-spindle-project",
+    "commit": "98681fed4ac887b4247531c39fcd7cce545c0ea4",
+    "context": {
+        "cookiecutter": {
+            "full_name": "Brandon Risberg",
+            "email": "brandon.risberg@gmail.com",
+            "github_username": "brisberg",
+            "title": "A Cat's Day",
+            "repo_slug": "cats-day",
+            "description": "A quirky retelling of a house cat's day.",
+            "_template": "https://github.com/brisberg/cruft-spindle-project"
+        }
+    },
+    "directory": null
+}
